@@ -12,7 +12,6 @@ How to reach me:
 * Discord: Corfaitch#2899
 * Twitter: @Corfaitch (I rarely use it)
 * LinkedIn: Fauzan Hanandito
-I tried 
 
 <!---
 Corfaitch/Corfaitch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
