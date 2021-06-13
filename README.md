@@ -10,7 +10,7 @@ What I do with my GitHub:
 How to reach me:
 * Instagram: @corfaitch
 * Discord: Corfaitch#2899
-* Twitter: @Corfaitch (I rarely use it)
+* Twitter: @Corfaitch (Only for twweeting what I learned)
 * LinkedIn: Fauzan Hanandito
 
 <!---
