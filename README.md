@@ -2,13 +2,13 @@
 My name is Fauzan Hanandito, although you might know me better as **Corfliss**.
 
 What I do with my GitHub:
-* 💻 Learning computer science at Universitas Indonesia.
+* 💻 Learning computer science at Universitas Indonesia and University of Queensland.
 * 📘 Documenting the personal work that I did in the past (like game development).
 * ❓ Secret personal project (Don't worry, it's not evil).
 
 How to reach me:
 * Instagram: @corfliss
-* Discord: Corfliss#2899
+* Discord: Corfliss
 * Twitter: @Corfliss (Only for tweeting what I learned)
 * LinkedIn: Fauzan Hanandito
 
