@@ -9,7 +9,7 @@ What I do with my GitHub:
 How to reach me:
 * Instagram: @corfliss
 * Discord: Corfliss
-* Twitter: @Corfliss (Only for tweeting what I learned)
+* Bluesky: @corfliss.bsky.social
 * LinkedIn: Fauzan Hanandito
 
 <!---
