@@ -1,10 +1,11 @@
 ### Halo
-My name is Fauzan Hanandito, although you might know me better as **Corfliss**.
+Name's Dito, AKA Corfliss, legit human.
 
 What I do with my GitHub:
-* 💻 Learning computer science at Universitas Indonesia and University of Queensland.
-* 📘 Documenting the personal work that I did in the past (like game development).
-* ❓ Secret personal project (Don't worry, it's not evil).
+* 💻 Developing toolkits to help me work and document it efficiently.
+* 📘 Learning by writing on the personal note (Conceptual Notes).
+* 🗄️ Archiving oroject that I did in the past (game development).
+* ❓ Drafting for some other projects.
 
 How to reach me:
 * Instagram: @corfliss
